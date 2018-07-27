@@ -1,0 +1,6 @@
+/Users/bryceligaya/Desktop/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/CrimeAnalyzer.exe
+/Users/bryceligaya/Desktop/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/CrimeAnalyzer.pdb
+/Users/bryceligaya/Desktop/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.csprojResolveAssemblyReference.cache
+/Users/bryceligaya/Desktop/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.csproj.CoreCompileInputs.cache
+/Users/bryceligaya/Desktop/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.exe
+/Users/bryceligaya/Desktop/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.pdb
